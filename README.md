@@ -2,6 +2,10 @@
 
 Trex, your safe travel application, allows users to travel the world all while keeping their loved ones apprized on their travels and their safety. 
 
+## Trex Back-End API
+Link to The Back- End Repository 
+`https://github.com/wthompson92/trex_backend`
+
 ## Set Up
 
 ### Use the Application
